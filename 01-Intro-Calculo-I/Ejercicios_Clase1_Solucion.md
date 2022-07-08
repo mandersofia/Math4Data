@@ -4,9 +4,9 @@ Racionales o Irracionales. Responder con la categoría más restrictiva, ej: 1 -
 
     a- 198          N
     b- 4            N
-    c- -3.1         Ra
+    c- -3.1         Entero
     d- -1/4         Ra
-    e- 10.0         N
+    e- 10.0         r
     f- 2*e          I
     g- -123.0004    Ra
 
@@ -14,9 +14,9 @@ Racionales o Irracionales. Responder con la categoría más restrictiva, ej: 1 -
 **2)** Calcula los siguientes porcentajes y y redondea la respuesta a su PRIMER número decimal
 
     a- 30% de 2000          600 
-    b- 2000% de 30          600
+    b- 2000% de 30          6.000
     c- 10% de 150           15
-    d- 25.5% de 27          6.9
+    d- 25.5% de 27          6.8
     e- 25.5% de 0.9         0.2
 
 **3)** Calcula la relación porcentual entre los siguientes números y redondea la respuesta a su PRIMER número decimal. Ej: X% de 20 es 2 -> R: 10
